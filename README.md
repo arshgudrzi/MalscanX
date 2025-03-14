@@ -21,3 +21,4 @@ You need Python 3 and the following dependencies:
 
 ```bash
 pip install lief
+sudo apt install binutils
